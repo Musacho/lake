@@ -93,7 +93,7 @@ export default function Auth() {
       <div className="hidden lg:flex lg:w-1/2 bg-primary p-12 flex-col justify-between">
         <div className="flex items-center gap-3">
           <div className="w-15 h-15 rounded-xl  flex items-center justify-center">
-            <img src='./logo/nqnm12h2.png' className="w-16 h-16 text-primary-foreground" />
+            <img src="./nqnm12h2.png" className="w-16 h-16 text-primary-foreground" />
           </div>
           <div>
             <h1 className="font-serif font-bold text-xl text-primary-foreground">LakeRoad P.T.A School</h1>
@@ -135,7 +135,7 @@ export default function Auth() {
           {/* Mobile Logo */}
           <div className="lg:hidden flex items-center justify-center gap-3 mb-8">
             <div className="w-15 h-15 rounded-xl flex items-center justify-center">
-              <img src="logo/nqnm12h2.png" className="w-14 h-14 text-primary-foreground" />
+              <img src="./logo/nqnm12h2.png" className="w-14 h-14 text-primary-foreground" />
             </div>
             <div>
               <h1 className="font-serif font-bold text-xl text-foreground">LakeRoad P.T.A School</h1>
