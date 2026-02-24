@@ -96,7 +96,7 @@ export default function Auth() {
             <img src='logo/nqnm12h2.png' className="w-16 h-16 text-primary-foreground" />
           </div>
           <div>
-            <h1 className="font-serif font-bold text-xl text-primary-foreground">LakeRoad P.T.A School.</h1>
+            <h1 className="font-serif font-bold text-xl text-primary-foreground">LakeRoad P.T.A School</h1>
             <p className="text-sm text-primary-foreground/70">Result Management System</p>
           </div>
         </div>
@@ -135,10 +135,10 @@ export default function Auth() {
           {/* Mobile Logo */}
           <div className="lg:hidden flex items-center justify-center gap-3 mb-8">
             <div className="w-15 h-15 rounded-xl flex items-center justify-center">
-              <img src='logo/nqnm12h2.png' className="w-14 h-14 text-primary-foreground" />
+              <img src="logo/nqnm12h2.png" className="w-14 h-14 text-primary-foreground" />
             </div>
             <div>
-              <h1 className="font-serif font-bold text-xl text-foreground">LakeRoad P.T.A School.</h1>
+              <h1 className="font-serif font-bold text-xl text-foreground">LakeRoad P.T.A School</h1>
               <p className="text-sm text-muted-foreground">Result Management System</p>
             </div>
           </div>
@@ -148,7 +148,7 @@ export default function Auth() {
               Welcome back
             </h2>
             <p className="text-muted-foreground mt-2">
-              Sign in to access the result management system.
+              Sign in to access the result management system
             </p>
           </div>
 
@@ -205,7 +205,7 @@ export default function Auth() {
           </form>
 
           <p className="text-center text-sm text-muted-foreground">
-            Contact your administrator if you need an account.
+            Contact your administrator if you need an account
           </p>
         </div>
       </div>
